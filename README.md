@@ -49,14 +49,6 @@
 
 ---
 
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Erickelrojo-22&theme=radical&no-frame=true&row=1&column=6" alt="Trofeos"/>
-</p>
-
----
-
 ## 🌐 Conecta conmigo
 
 <p align="center">
