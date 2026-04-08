@@ -1,5 +1,5 @@
 <h1 align="center">
-  ¡Hola! Soy Erickel Rojo 👋
+  ¡Hola! Soy Erick Moreira 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -11,14 +11,14 @@
 
 ---
 
-## ��‍♂️ Sobre mí
+## 🙋‍♂️ Sobre mí
 
+- 🎓 Estudiante de la Universidad Laica Eloy Alfaro de Manabí (ULEAM)
 - 🔭 Actualmente trabajando en proyectos personales y de aprendizaje
 - 🌱 Aprendiendo y mejorando mis habilidades en desarrollo web
 - 👯 Abierto a colaborar en proyectos interesantes
 - 💬 Pregúntame sobre lo que quieras, ¡con gusto ayudo!
 - 📫 Cómo contactarme: a través de mis redes sociales o GitHub
-- ⚡ Dato curioso: ¡Me encanta resolver problemas con código!
 
 ---
 
@@ -70,5 +70,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Erickelrojo-22&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
 </p>
-
-<p align="center">⭐ ¡No olvides dejar una estrella en los repos que te gusten! ⭐</p>
